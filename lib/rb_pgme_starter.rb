@@ -1,4 +1,3 @@
-require 'launchy'
 
 #check l'ARGV entré
 def check_if_user_gave_input
